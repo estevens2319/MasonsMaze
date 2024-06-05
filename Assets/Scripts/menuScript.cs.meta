@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5c14d0fe46e2ef044aa7de758bd94975
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - instructionsScroll: {instanceID: 0}
+  - mainMenuCanvas: {instanceID: 0}
+  - menuButton: {instanceID: 0}
+  - floorSliderText: {instanceID: 0}
+  - floorSlider: {instanceID: 0}
+  - optionsPage: {instanceID: 0}
+  - pitText: {instanceID: 0}
+  - proofText: {instanceID: 0}
+  - characterText: {instanceID: 0}
+  - menuParameters: {fileID: 11400000, guid: 1769cafd320f01c47b8e534c175860f0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
